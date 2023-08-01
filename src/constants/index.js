@@ -1,7 +1,6 @@
 import {
   mobile,
-  backend,
-  creator,
+  
   web,
   javascript,
   typescript,
@@ -10,18 +9,12 @@ import {
   reactjs,
   redux,
   tailwind,
-  nodejs,
-  mongodb,
+
   git,
-  figma,
-  docker,
-  meta,
-  starbucks,
-  tesla,
-  shopify,
-  carrent,
-  jobit,
-  tripguide,
+  
+  taskManager,
+  linkedinImage,
+  
   threejs,
   java,
   nit,
@@ -195,29 +188,30 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
+    image: linkedinImage,
     source_code_link: "https://github.com/tripathiprachi18/LinkedIn-Clone---React-Project---e8mzmi7tf2cv",
   },
   {
-    name: "Booking.com Clone",
+    name: "Task Manager",
     description:
-      "Created an Booking.com clone website in which I added search option which navigates to hotel section.",
+      "Created an Task Manager website in which there is an input option with which we can add new task and could be dragged as per the status and later on edit or delete.",
     tags: [
       {
-        name: "react",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "redux",
+        name: "HTML",
         color: "green-text-gradient",
       },
+      {
+        name: "CSS",
+        color: "yellow-text-gradient",
+      },
+    
       {
         name: "js",
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
-    source_code_link: "https://github.com/tripathiprachi18/Booking.com-Clone---React-Project---tsgh8v73b7fv",
+    image: taskManager,
+    source_code_link: "https://github.com/tripathiprachi18/TaskManager",
   },
   
 ];
